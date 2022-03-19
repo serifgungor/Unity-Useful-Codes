@@ -30,3 +30,5 @@ IEnumerator DownloadAsset()
 
     }
 }
+
+//https://docs.unity3d.com/Manual/AssetBundles-Workflow.html
